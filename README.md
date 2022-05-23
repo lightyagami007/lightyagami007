@@ -13,9 +13,9 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
-
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 <br />
+ <img align="right" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+
  👋 Hi, I’m @iyogeshmore
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
