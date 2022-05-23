@@ -14,7 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
 <br />
- <img align="center" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+ <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
  👋 Hi, I’m @iyogeshmore
 
@@ -68,7 +68,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="350" />
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="350" />
 
 ## 🛠️ **DEVLOPMENT TOOLS**
 
