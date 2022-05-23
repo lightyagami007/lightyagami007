@@ -11,6 +11,7 @@
 <a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured">
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+ <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
 <br />
@@ -24,7 +25,6 @@
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
 
 
