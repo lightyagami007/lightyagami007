@@ -11,11 +11,11 @@
 <a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured">
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
-<br />
 
+ <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+<br />
  👋 Hi, I’m @iyogeshmore
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
