@@ -97,8 +97,6 @@
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?iyogeshmore=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?iyogeshmore=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?iyogeshmore=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img width="282" src="https://iyogeshmore-github-readme-stats.vercel.app/api/pin/?iyogeshmore=iyogeshmore&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
