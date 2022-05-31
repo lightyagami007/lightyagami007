@@ -99,4 +99,4 @@
 [javatpoint]: https://www.javatpoint.com/java-tutorial
 
 
-<img width="282" src="https://iyogeshmore-github-readme-stats.vercel.app/api/pin/?iyogeshmore=iyogeshmore&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+| <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iyogeshmore&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yogesh's github stats" /></a> | <a href="https://github.com/iyogeshmore/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyogeshmore&layout=compact&theme=buefy&hide_border=true" /></a> |
